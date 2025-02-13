@@ -1,0 +1,8 @@
+C:\Users\Danilo Nakai\Downloads\myprojects\dotnet_media_and_salon_management\Lab3A\bin\Debug\Data.txt
+C:\Users\Danilo Nakai\Downloads\myprojects\dotnet_media_and_salon_management\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\Danilo Nakai\Downloads\myprojects\dotnet_media_and_salon_management\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\Danilo Nakai\Downloads\myprojects\dotnet_media_and_salon_management\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\Danilo Nakai\Downloads\myprojects\dotnet_media_and_salon_management\Lab3A\obj\Debug\Lab3A.csproj.AssemblyReference.cache
+C:\Users\Danilo Nakai\Downloads\myprojects\dotnet_media_and_salon_management\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Nakai\Downloads\myprojects\dotnet_media_and_salon_management\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\Danilo Nakai\Downloads\myprojects\dotnet_media_and_salon_management\Lab3A\obj\Debug\Lab3A.pdb
